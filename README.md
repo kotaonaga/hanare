@@ -6,6 +6,8 @@
 そんな思いからこの装置は生まれた。ため息は風に変換され風鈴を揺らす。
 自ら音を奏でることを放棄した風鈴をはじめとしたそれぞれの物体が役割を放棄し、一息ついている。  
 
-ProcessingとArduinoを用いて制作。  
+ProcessingとArduinoを用いて制作。動画↓
+
+https://www.youtube.com/watch?v=3QLuPlD-3OE&feature=youtu.be
 
 [![](https://img.youtube.com/vi/3QLuPlD-3OE&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=3QLuPlD-3OE&feature=youtu.be)
